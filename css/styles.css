@@ -154,6 +154,8 @@ img {
 }
 
 .header-contacts__item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-contacts__link {
@@ -162,8 +164,6 @@ img {
   font-size: 16px;
   line-height: 1.5;
   display: inline-block;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-contacts__link:hover,
