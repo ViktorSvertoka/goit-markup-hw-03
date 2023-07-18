@@ -67,7 +67,7 @@ img {
   height: auto;
 }
 
-.hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -126,7 +126,7 @@ img {
 }
 
 .header-nav__item {
-  padding: 24px 0;
+  padding: 24px 0 24px;
 }
 
 .header-nav__link {
@@ -179,7 +179,7 @@ img {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  width: 496px;
+  max-width: 496px;
   text-align: center;
   margin: 0 auto 48px;
 }
@@ -199,6 +199,7 @@ img {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   display: block;
   margin: 0 auto;
+  min-width: 169px;
 }
 
 .hero__button:hover,
@@ -291,7 +292,7 @@ img {
 }
 
 .team__wrapper {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .team__image {
@@ -380,7 +381,7 @@ img {
   background-color: var(--color-ocean);
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
     0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
-  border: none;
+  border: 1px solid transparent;
 }
 
 .gallery__list {
