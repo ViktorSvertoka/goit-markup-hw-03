@@ -126,9 +126,6 @@ img {
   margin-left: 76px;
 }
 
-.header-nav__item {
-}
-
 .header-nav__link {
   color: var(--color-navy-blue);
   font-weight: 500;
@@ -151,9 +148,6 @@ img {
 .header-contacts__list {
   display: flex;
   gap: 40px;
-}
-
-.header-contacts__item {
 }
 
 .header-contacts__link {
@@ -259,12 +253,6 @@ img {
   gap: 24px;
 }
 
-.works__item {
-}
-
-.works__image {
-}
-
 .team {
   background-color: var(--color-cloud);
   padding: 120px 0;
@@ -297,9 +285,6 @@ img {
 
 .team__wrapper {
   padding: 32px 0;
-}
-
-.team__image {
 }
 
 .team__specialist {
@@ -362,9 +347,6 @@ img {
   margin-bottom: 72px;
 }
 
-.gallery-filter__item {
-}
-
 .gallery-filter__button {
   color: var(--color-iris);
   background-color: var(--color-cloud);
@@ -392,15 +374,6 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 48px 24px;
-}
-
-.gallery__item {
-}
-
-.gallery__link {
-}
-
-.gallery__image {
 }
 
 .gallery__wrapper {
