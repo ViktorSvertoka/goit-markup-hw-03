@@ -4,7 +4,7 @@
 - Склонуй створений репозиторій і скопіюй в нього файли попередньої роботи.
 - Додай стилі для геометрії (ширини, відступи, поля і рамки) і позиціонування
   контенту за допомогою Flexbox для сторінок макета
-  [**домашнього завдання #3**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94>).
+  [**домашнього завдання #3**](<https://www.figma.com/file/Kr5Q4EVrEAqpOWko4QeEJb/Web-Studio-(Version-4.0)?type=design&node-id=296708-626&mode=design&t=2YMRFnSzdEnoXKKW-0>).
 - Налаштуй `GitHub Pages` і додай посилання на живу сторінку в шапку
   GitHub-репозиторія.
 
@@ -87,4 +87,8 @@
 
 ![Web Page](./images/screencapture1.png)
 
+---
+
 ![Web Page](./images/screencapture2.png)
+
+---
